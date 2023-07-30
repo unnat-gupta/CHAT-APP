@@ -138,7 +138,7 @@ const SideDrawer = () => {
           </Button>
         </Tooltip>
         <Text fontSize="2xl" fontFamily="Work sans" mr={10}>
-          Chat-App
+          NEXUS-CHAT
         </Text>
         <div>
           <Menu>

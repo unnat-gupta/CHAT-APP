@@ -39,7 +39,7 @@ const HomePage = () => {
       >
         <Center>
           <Text fontSize="4xl" fontFamily="Work sans" color="black">
-            Talk-A-Tive
+            Nexus Chat
           </Text>
         </Center>
       </Box>
